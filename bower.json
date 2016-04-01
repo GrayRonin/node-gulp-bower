@@ -1,0 +1,23 @@
+{
+  "name": "profuturo",
+  "authors": [
+    "Noe Villegas <noe.villegas333@gmail.com>"
+  ],
+  "description": "Demo for profuturo project",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.2",
+    "bootstrap-stylus": "^5.0.2",
+    "stylus": "^0.54.2"
+  }
+}
